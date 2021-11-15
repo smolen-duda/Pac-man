@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Colorful.Console">
+      <HintPath>C:\Users\Basia\Downloads\colorful.console.1.2.15\net461\Colorful.Console.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
